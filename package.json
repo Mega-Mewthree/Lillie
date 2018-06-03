@@ -1,0 +1,35 @@
+{
+  "name": "lillie",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "",
+  "author": "",
+  "files": [
+    "node_modules"
+  ],
+  "main": "botPrototype.js",
+  "keywords": [],
+  "scripts": {
+    "start": "node ./bot.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "express": "^4.16.1",
+    "pg": "^6.1.5",
+    "socket.io": "^1.0",
+    "sqlite": "^2.8.0",
+    "util": "^0.10.3"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "engines": {
+    "node": "7.6.0"
+  }
+}
